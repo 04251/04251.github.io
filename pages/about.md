@@ -1,22 +1,17 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 04251
+keywords: 04251
 comments: true
 menu: 关于
 permalink: /about/
 ---
-
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+![无聊的很](http://wx4.sinaimg.cn/mw600/0067XV5uly1fh123qlhl0j30hs0d5juz.jpg)
 
 ## 联系
 
-{% for website in site.data.social %}
+<!-- {% for website in site.data.social %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
 {% endfor %}
 
@@ -29,4 +24,4 @@ permalink: /about/
 <button class="btn btn-outline" type="button">{{ keyword }}</button>
 {% endfor %}
 </div>
-{% endfor %}
+{% endfor %} -->
